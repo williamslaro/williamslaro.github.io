@@ -1,0 +1,207 @@
+<html>
+<head>
+<meta name="description"
+content="Laron K. Williams: Professor of Political Science.">
+<meta name="keywords"
+content="dynamic simulations, woldendorp keman and budge, party government data set, government data, government partisanship, long term effects, guns and butter, war voting, elections and war, laron, williams, texas tech university, texas A&M university, university of missouri, political science, phd, mizzou, truman school, teaching, research, cv">
+<title>Laron K. Williams</title>
+
+<style type="text/css">
+a {
+font-decoration:none;
+text-decoration:none;
+}
+a:link {
+color: #663300;
+}
+a:visited {
+color: #999999;
+}
+a:hover {
+text-decoration:underline;
+}
+a:active {
+color: #999999;
+}
+body
+{
+font-family: sans-serif;
+}
+</style>
+
+</head>
+
+<h2>
+<a href="index.html">Home</a> | <a href="research.html">Research</a> | <a href="mipdata.html">MIP Data</a> | <a href="govtdata.html">Government Data</a> | <a href="programs.html">Programs</a> |<a href="teaching.html">Teaching</a> | <a href="Williams CV.pdf">CV</a>
+</h2>
+
+<h3>
+Woldendorp, Keman and Budge (2000) <em>Party Government</em> data set updated through 2014: 
+</h3>
+
+
+This page provides the various data sets, supporting materials and Stata files required for creating the governments and ministers data sets in a variety of units of analysis.  Please cite the following: Katsunori Seki and Laron K. Williams, 2014.  "Updating the <em>Party Government</em> Data Set", <em>Electoral Studies</em>.
+
+<br>
+<br>
+
+Download all the files below <a style="color: #000000" href="Seki-Williams Release 2.0.zip"><u>here</u></a>
+
+<table cellspacing="1" cellpadding="20">
+<td width=750 align=left>
+
+<br>
+<br>
+
+<br>
+<b>Data:</b><br>
+<br>
+
+<ul>
+
+	<li><b>Seki-Williams Governments Dataset (Version 2.0)</b>: contains all WKB governments updated through 2014.</li>
+	<br>
+	<ul>
+		<li><a style="color: #000000" href="Seki-Williams Governments--Version 2.0.dta"><u>(Stata)</u></a></li>
+		<li><a style="color: #000000" href="Seki-Williams Governments--Version 2.0.csv"><u>(Excel)</u></a></li>
+	</ul>
+<br>
+<br>
+
+	<li><b>Seki-Williams Ministers Dataset (Version 2.0)</b>: Detailed ministry data (with begining and ending tenure dates for individual ministers) from the early-1990s through 2014.</li>
+	<br>
+	<ul>
+		<li><a style="color: #000000" href="Seki-Williams Ministers--Version 2.0.dta"><u>(Stata)</u></a></li>
+		<li><a style="color: #000000" href="Seki-Williams Ministers--Version 2.0.csv"><u>(Excel)</u></a></li>
+	</ul>
+<br>
+<br>
+
+	<li><b>Seki-Williams Annual Government Partisanship</b>: Annual government partisanship (both with MARPOR data and complexion of government [CPG] variables) for 37 democracies in the post-World War II period through 2014 (see codebook below).</li>
+	<br>
+	<ul>
+		<li><a style="color: #000000" href="Seki-Williams Annual Government Partisanship--Version 2.0.dta"><u>(Stata)</u></a></li>
+		<li><a style="color: #000000" href="Seki-Williams Annual Government Partisanship--Version 2.0.csv"><u>(Excel)</u></a></li>
+	</ul>
+<br>
+<br>
+
+	<li><b>WKB ministers data</b>: Stata version of the WKB data set contained in their 2000 volume.</li>
+	<br>
+	<ul>
+		<li><a style="color: #000000" href="WKB Ministers--Version 2.0.dta"><u>(Stata)</u></a></li>
+		<li><a style="color: #000000" href="WKB Ministers--Version 2.0.csv"><u>(Excel)</u></a></li>
+	</ul>
+</ul>
+
+<br>
+<br>
+
+</td>
+
+
+<td>
+<p>Annual Government Partisanship (Manifesto Data) for Four European Democracies</p>
+
+<figure>
+  <img src="part.jpg" alt="Partisanship">
+</figure>
+</td>
+
+</tr>
+</table>
+
+<br>
+<b>Stata files:</b><br>
+
+<br>
+<br>
+
+If the Seki-Williams Annual Government Partisanship dataset is not what you need, then you can modify temporal dimension (i.e., quarterly or monthly), change the unit of analysis to government-party, or create different government partisanship variables, then use the following Stata do file:
+
+<br>
+<br>
+
+<ul>
+
+	<li><a style="color: #000000" href="Seki-Williams Government Partisanship.do"><u>Seki-Williams Government Partisanship</u></a>: Stata do file that uses the Manifesto Project Database (e.g., left-right position, dove/hawk position, etc) to produce partisanship data (based on the prime minister's position and the government's position weighted by seats) at a variety of units of analysis (annual, quarterly, monthly or daily).  NOTE: This produces a data set with the government/time period as the unit of analysis, meaning that there will be multiple observations for the time periods where a government change occurs.  For example, in a government/year data set, there will be multiple observations for the year of an election.  Also, this dataset uses the latest update of the manifesto data (Update 2016a), so make sure that you download it from the link below and save it in the working directory. </li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="https://manifesto-project.wzb.eu/datasets"><u>Manifesto Project Database (Update 2016a)</u></a>: Latest update to the Manifesto Project Database, used when producing the government partisanship dataset (see above).  Please cite the <a style="color: #000000" href="https://manifestoproject.wzb.eu/information/documents/corpus"><u>Manifesto Project Database</u></a>.</li>
+</ul>
+<br>
+<br>
+
+
+<br>
+<b>Supporting materials:</b><br>
+<br>
+
+<ul>
+
+	<li><a style="color: #000000" href="SW 2016 Codebook--Governments.pdf"><u>Governments Codebook</u></a>: Full codebook for the Governments data set.</li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="SW 2016 Codebook--Ministers.pdf"><u>Ministers Codebook</u></a>: Full codebook for both Ministers data sets (WKB and SW).</li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="SW 2016 Codebook--Partisanship.pdf"><u>Government Partisanship Codebook</u></a>: Codebook for the annual government partisanship dataset.</li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="SW2016_Appendix1a.pdf"><u>Appendix 1a</u></a>: List of government parties.</li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="SW2016_Appendix1b.pdf"><u>Appendix 1b</u></a>: Coding decisions notes.  </li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="SW2016_Appendix1c.pdf"><u>Appendix 1c</u></a>: Bibliography.  </li>
+
+<br>
+<br>
+
+	<li><a style="color: #000000" href="SW 2016 Release Notes.pdf"><u>Release Notes</u></a>: Release notes for previous versions.  </li>
+
+<br>
+<br>
+
+
+</ul>
+
+<td width=325 valign=top>
+<br>
+<br>
+
+<br>
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47071629-1', 'missouri.edu');
+  ga('send', 'pageview');
+
+</script>
