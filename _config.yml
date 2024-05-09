@@ -245,7 +245,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: research
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -254,7 +254,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: software
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -263,7 +263,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: datasets
+      type: talks
     values:
       layout: single
       author_profile: true
