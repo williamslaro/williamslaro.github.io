@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here is a copy of my [CV]("http://williamslaro.github.io/files/Williams CV.pdf").
+Here is a copy of my [CV]('http://williamslaro.github.io/files/CV.pdf').
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
