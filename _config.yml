@@ -202,13 +202,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  software:
     output: true
     permalink: /:collection/:path/
-  talks:
+  datasets:
     output: true
     permalink: /:collection/:path/
 
@@ -265,7 +265,7 @@ defaults:
       path: ""
       type: datasets
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
