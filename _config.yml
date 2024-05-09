@@ -242,28 +242,28 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _software
   - scope:
       path: ""
-      type: portfolio
+      type: software
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _datasets
   - scope:
       path: ""
-      type: talks
+      type: datasets
     values:
       layout: talk
       author_profile: true
