@@ -242,7 +242,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _publications
   - scope:
       path: ""
       type: research
@@ -251,7 +251,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _software
+  # _portfolio
   - scope:
       path: ""
       type: software
@@ -260,7 +260,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _datasets
+  # _talks
   - scope:
       path: ""
       type: datasets
