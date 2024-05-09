@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: /_research/
 
   - title: "Datasets"
-    url: /datasets/    
+    url: /_datasets/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /_teaching/    
     
   - title: "Software"
-    url: /software/
+    url: /_software/
