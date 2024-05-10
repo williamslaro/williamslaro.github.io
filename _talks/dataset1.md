@@ -8,7 +8,6 @@ date: 2016-01-01
 location: "Government Composition and Partisanship"
 ---
 
-# Overview
 The Seki-Williams dataset updates Woldendorp, Keman and Budge's (2000) Party Government dataset through 2014. This page describes the various datasets, supporting materials and Stata files necessary for creating datsets with a variety of units of analysis. All files are available through [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
 
 <div align="center"> 
@@ -23,7 +22,7 @@ Annual government partisanship (based on MARPOR data) for four European democrac
 4. **WKB Ministers Data:** Stata version of the original Woldendorp, Keman and Budge data.
 
 ## Generation Files
-* To generate datasets based on different units of analysis (such as government-party), or temporal dimensions (such as quarterly or monthly), or to create different government partisanship variables, follow the directions in the Seki-Williams Government Partisanship.do (Stata do file).
+* To generate datasets based on different units of analysis (such as government-party), or temporal dimensions (such as quarterly or monthly), or to create different government partisanship variables, follow the directions in the Seki-Williams Government Partisanship.do (Stata do file) located on [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
 
 ## Supporting Materials
 * Codebooks for the Governments, Ministers, and Government Partisanship datasets
