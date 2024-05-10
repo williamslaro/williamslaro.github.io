@@ -4,7 +4,7 @@ excerpt: "Dynamic simulations of autoregressive relationships in Stata<br/><img 
 collection: portfolio
 ---
 
-[Guy D. Whitten](https://bush.tamu.edu/faculty/gwhitten/) and I develop a Stata package called *dynsim* that use the Clarify program to generate dynamic simulations of autoregressive relationships in Stata.
+[Guy D. Whitten](https://bush.tamu.edu/faculty/gwhitten/) and I develop a Stata package called *dynsim* that use the [Clarify](https://gking.harvard.edu/clarify) program to generate dynamic simulations of autoregressive relationships in Stata.
 
 ## Download Instructions
 * To download *dynsim* in Stata: `net install st0242.pkg`
