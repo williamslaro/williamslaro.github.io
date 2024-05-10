@@ -8,10 +8,13 @@ date: 2014-01-01
 location: "Government Composition and Partisanship"
 ---
 
-The Seki-Williams dataset updates Woldendorp, Keman and Budge's (2000) Party Government dataset through 2014. This page describes the various datasets, supporting materials and Stata files necessary for creating datsets with a variety of units of analysis. All files are available through [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
+The Seki-Williams dataset updates Woldendorp, Keman and Budge's (2000) Party Government dataset through 2014. This includes government composition, government type, partisanship, and minister information for 37 democracies in the post-WWII era through 2014. 
 
 Annual government partisanship (based on MARPOR data) for four European democracies
 ![Partisanship](../images/part.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+## Data Access
+All files are available through [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
 
 ## Datasets
 1. **Seki-Williams Governments Dataset (Version 2.0):** contains data on all government parties, government type, seat shares, and other information for all governments in advanced democracies through 2014.
