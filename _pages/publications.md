@@ -1,4 +1,12 @@
-# Research
+---
+layout: archive
+title: "Research"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
 Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=mf4yXbAAAAAJ&hl=en).
 
 # Publications
