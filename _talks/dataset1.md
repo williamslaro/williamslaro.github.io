@@ -3,7 +3,7 @@ title: "Seki-Williams Government and Ministers Data"
 collection: talks
 type: "Updated Dataset"
 permalink: /talks/dataset1
-venue: "Woldendorp, Keman and Budge (2000)"
+venue: "Electoral Studies"
 date: 2016-01-01
 location: "Government Composition and Partisanship"
 ---
