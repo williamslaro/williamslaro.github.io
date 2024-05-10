@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Simulations"
+title: "Dynamic Simulations (Stata)"
 excerpt: "Dynamic simulations of autoregressive relationships in Stata<br/><img src='/images/dynsim1.jpg'>"
 collection: portfolio
 ---
