@@ -4,7 +4,7 @@ collection: talks
 type: "Updated Dataset"
 permalink: /talks/dataset1
 venue: "Electoral Studies"
-date: 2016-01-01
+date: 2014-01-01
 location: "Government Composition and Partisanship"
 ---
 
