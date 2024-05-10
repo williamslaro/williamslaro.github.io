@@ -25,5 +25,5 @@ The Seki-Williams dataset updates Woldendorp, Keman and Budge's (2000) Party Gov
 
 **Citation:** Seki, Katsunori and Laron K. Williams. 2014. "Updating the Party Government Dataset." *Electoral Studies*
 
-[Annual government partisanship (based on MARPOR data) for four European democracies](../images/part.jpg)
+![Annual government partisanship (based on MARPOR data) for four European democracies](../images/part.jpg)
 
