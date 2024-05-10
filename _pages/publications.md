@@ -13,6 +13,7 @@ Here is a copy of my [CV](/files/CV.pdf).
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Publications
+## Journal Articles (Peer-Reviewed)
+* "The Economic Roots of Cross-National Similarity in Voter Preferences". *American Journal of Political Science* (with David Fortunato and Sebastian Juhl.
+  [[Details](../_research/pub1.md)]
