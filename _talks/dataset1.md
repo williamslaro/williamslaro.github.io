@@ -25,7 +25,7 @@ Annual government partisanship (based on MARPOR data) for four European democrac
 ## Supporting Materials
 * Codebooks for the Governments, Ministers, and Government Partisanship datasets
 
-### Citation 
+## Citation 
 * Seki, Katsunori and Laron K. Williams. 2014. "Updating the Party Government Dataset." *Electoral Studies* [Link](https://doi.org/10.1016/j.electstud.2013.10.001)
 
 
