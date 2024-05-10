@@ -1,9 +1,5 @@
 # Research
-Here is a copy of my [CV](/files/CV.pdf).
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=mf4yXbAAAAAJ&hl=en).
 
 # Publications
 ## Journal Articles (Peer-Reviewed)
