@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Simulations"
-excerpt: "Dynamic simulations of autoregressive relationships in R<br/><img src='/images/dynsim2.jpg'{width=50%}>"
+excerpt: "Dynamic simulations of autoregressive relationships in R<br/><img src='/images/dynsim2.jpg' width="50%">"
 collection: portfolio
 ---
 
