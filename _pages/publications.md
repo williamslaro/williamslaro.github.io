@@ -9,5 +9,8 @@ Here is a copy of my [CV](/files/CV.pdf).
 
 # Publications
 ## Journal Articles (Peer-Reviewed)
-* "The Economic Roots of Cross-National Similarity in Voter Preferences". *American Journal of Political Science* (with David Fortunato and Sebastian Juhl.
+* "The Economic Roots of Cross-National Similarity in Voter Preferences". *American Journal of Political Science* (with David Fortunato and Sebastian Juhl. [LINK](../_publications/similarity.md)
+
+* [LINK](https://williamslaro.github.io/publications/similarity)
+  
 
