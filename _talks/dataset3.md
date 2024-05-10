@@ -1,34 +1,18 @@
 ---
-title: "Most Important Problem Dataset"
+title: "Sophia: the Party Perceptions Data (Coming Soon!)"
 collection: talks
-type: "Release 2.0"
-permalink: /talks/dataset2
-venue: "Journal of Elections, Public Opinion and Parties"
+type: "Release 1.0"
+permalink: /talks/dataset3
+venue: "Campbridge University Press"
 date: 2024-01-01
-location: "Issue Salience in America"
+location: "Voters' Perceptions of Parties' Placements"
 ---
 
-The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' responses to the 'Most Important Problem' question using survey data from 1939-2020. Responses are partitioned into quasi-responses which are then coded into the MIPD coding scheme. We also collect a variety of demographic (i.e., age, gender, income, class, etc), political variables (i.e., partisan identification, ideology, vote intention), evaluations (i.e., presidential approval and economic evaluations), and ownership perceptions (i.e., best party at handling issues), which can be used in exploratory or inferential analyses. 
-
-Relative importance of foreign policy and the economy for Americans, 1939-2015
-![Partisanship](../images/mip2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+Sophia: the Party Perceptions Data is a joint project with [David Fortunato](https://gps.ucsd.edu/faculty-directory/david-fortunato.html) and [Thiago Silva](https://thiagosilvaphd.com/) that provides aggregate-level estimates of voters' perceptions of parties' placements in advanced democracies in the post-WWII era.  In addition to providing measures of central tendency (such as mean and median) we provide estimates for archetypes (i.e., Jack, Jurgen and Sophia) with common sets of demographic traits, all with appropriate measures of uncertainty.
 
 ## Data Access
-Individual data is available through the [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159) and aggregate measures of issue salience are available in the links below.
-
-## Datasets (will be released soon!)
-1. **MIPD Individual Dataset:** dataset containing the individual-level responses to the MIP question, as well as demographics, economic evaluations, presidential approval, and competency questions. [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159)
-
-2. **MIPD Aggregate Datasets:** aggregate datasets containing the percentages of MIP responses in each category of the [MIPD](../files/codes.xlsx) and Comparative Agendas Project coding schemes. Available temporal dimensions include survey, monthly, quarterly, and annual.
-
-3. **MIPD Aggregate Subgroup Datasets:** aggregate datasets containing the percentages of MIP responses across subgroups of Americans (including partisan identification, gender, income quartiles, and geographic regions).  
-
-## Supporting Materials (will be released soon!)
-* **MIPD Individual Codebook:** Codebook containing variable definitions, question wordings, coding schemes and descriptive statistics for the individual-level dataset.
-* **MIPD Aggregate Codebook:** Codebook containing variable definitions, question wordings, coding schemes and descriptive statistics for the aggregate and subgroup datasets.
+Data will be released soon!
 
 ## Citations
-If you use the dataset, please cite the following two companion articles and the dataset:
-* Heffington, Colton, Brandon Beomseob Park, and Laron K. Williams. 2019. "The 'Most Important Problem' Dataset (MIPD): A New Dataset on American Issue Importance." *Conflict Management and Peace Science* 36.3: 312-335. [Link](https://doi.org/10.1177/0738894217691463)
-* Yildirim, T. Murat and Laron K. Williams. Forthcoming. "Public Importance across Time and Space: Updating the 'Most Important Problem Dataset'". *Journal of Elections, Public Opinion and Parties*. [Link](https://doi.org/10.1080/17457289.2024.2337424)
-* The 'Most Important Problem' Dataset (MIPD): A New Dataset on American Issue Importance, Release 1.0 REPLICATION, 1939 [Dataset]. Roper #31094159, Version 2. Not applicable [producer]. Cornell University, Ithaca, NY: Roper Center for Public Opinion Research [distributor]. [Link](https://doi.org/10.25940/ROPER-31094159)
+If you use the dataset, please cite the following book manuscript:
+* David Fortunato, Thiago N. Silva, and Laron K. Williams *Voter Perceptions of Party Positions: Theory, Data, and Empirical Strategies*
