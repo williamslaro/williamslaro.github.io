@@ -3,7 +3,7 @@ title: "Sophia: the Party Perceptions Data (Coming Soon!)"
 collection: talks
 type: "Release 1.0"
 permalink: /talks/dataset3
-venue: "Campbridge University Press"
+venue: "Cambridge University Press"
 date: 2024-01-01
 location: "Voters' Perceptions of Parties' Placements"
 ---
