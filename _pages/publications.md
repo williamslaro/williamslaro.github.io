@@ -112,7 +112,7 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
 * [But Wait There's More! Maximizing Substantive Inferences in TSCS Models](https://doi.org/10.1017/S0022381612000473). *Journal of Politics* (with Guy D. Whitten).  2012.    
   [[Details]](../_publications/butwait.md)
 
-* [Pick Your Poison: Economic Crises, International Monetary Fund Structural Adjustment and Leader Survival]([)](https://doi.org/10.1177/0192512111399006). *International Political Science Review*.  2012.    
+* [Pick Your Poison: Economic Crises, International Monetary Fund Structural Adjustment and Leader Survival](https://doi.org/10.1177/0192512111399006). *International Political Science Review*.  2012.    
   [[Details]](../_publications/poison.md)
 
 * [Unsuccessful Success? Failed No-Confidence Motions, Competence Signals, and Electoral Support](https://doi.org/10.1177/0010414011407470). *Comparative Political Studies*.  2011.    
