@@ -12,6 +12,6 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
 # Publications
 ## Journal Articles (Peer-Reviewed)
 * "The Economic Roots of Cross-National Similarity in Voter Preferences". *American Journal of Political Science* (with David Fortunato and Sebastian Juhl. \
-  [[Details]](../_publications/similarity.md)
+  |[Details]|../_publications/similarity.md)
   
 
