@@ -15,7 +15,7 @@ author_profile: true
 
 
 
-[[Article](../files/FJW.pdf) | [Supplemental Information](../files/FJW_SI.pdf)]
+[[Article]](../files/FJW.pdf) [[Supplemental Information]](../files/FJW_SI.pdf)
 
 
 [Back to Research](https://williamslaro.github.io/publications)
