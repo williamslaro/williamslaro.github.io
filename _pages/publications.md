@@ -10,7 +10,9 @@ author_profile: true
 Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=mf4yXbAAAAAJ&hl=en).
 
 ## Journal Articles (Peer-Reviewed)
-* "The Economic Roots of Cross-National Similarity in Voter Preferences". *American Journal of Political Science* (with David Fortunato and Sebastian Juhl.  
+* The Economic Roots of Cross-National Similarity in Voter Preferences. *American Journal of Political Science* (with David Fortunato and Sebastian Juhl).  
   [[Details]](../_publications/similarity.md)
-  
+
+* [Problem Importance across Time and Space: Updating the 'Most Important Problem Dataset'](https://doi.org/10.1080/17457289.2024.2337424). *Journal of Elections, Public Opinion and Parties* (with T. Murat Yildirim).  
+  [[Details]](../_publications/mipd2.md)
 
