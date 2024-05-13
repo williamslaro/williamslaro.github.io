@@ -15,7 +15,7 @@ author_profile: true
 
 
 
-[[Article]](https://doi.org/10.1080/17457289.2024.2337424) [[Reproduction]](../files/YW-Reproduction.zip) [[Data]](https://williamslaro.github.io/talks/dataset2)
+[[Article]](https://doi.org/10.1080/17457289.2024.2337424) [[Reproduction]](https://doi.org/10.7910/DVN/NDMOFT) [[Data]](https://williamslaro.github.io/talks/dataset2)
 
 
 [Back to Research](https://williamslaro.github.io/publications)
