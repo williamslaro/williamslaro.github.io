@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/tdw
+permalink: /publications/smoking
 author_profile: true
 ---
 
