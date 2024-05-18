@@ -41,7 +41,7 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
   [[Details]](../_publications/gvb.md)
 
 * [Temporal Dependence and the Sensitivity of Quantities of Interest: A Solution for a Common Problem](https://doi.org/10.1093/poq/nfx034). *International Studies Quarterly*.  2018.    
-  [[Details]](../_publications/tdw.md)
+  [[Details]](../_publications/td.md)
 
 * [North American Public Opinion on Health and Smoking](https://doi.org/10.1093/isq/sqy036). *Public Opinion Quarterly* (with Raymond M. Duch and Kent L. Tedin).  2018.    
   [[Details]](../_publications/smoking.md)
