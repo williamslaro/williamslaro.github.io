@@ -35,7 +35,7 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
   [[Details]](../_publications/weather.md)
 
 * [The 'Most Important Problem' Dataset (MIPD): A New Dataset on American Issue Importance](https://doi.org/10.1177/0738894217691463). *Conflict Management and Peace Science* (with Colton Heffington and Brandon Beomseob Park).  2019.  
-  [[Details]](../_publications/mipd1.md)
+  [[Details]](https://williamslaro.github.io/talks/dataset2)
 
 * [Guns Yield Butter? Exploring the Individual-Level Variation in Defense Spending Attitudes](https://doi.org/10.1177/0022002718785969). *The Journal of Conflict Resolution*.  2019.    
   [[Details]](../_publications/gvb.md)
