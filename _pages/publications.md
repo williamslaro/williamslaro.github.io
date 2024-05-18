@@ -28,7 +28,7 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
 * [Interpretation: the Final Spatial Frontier](https://doi.org/10.1017/psrm.2019.9). *Political Science Research and Methods* (with Cameron Wimpy and Guy D. Whitten).  2021.    
   [[Details]](../_publications/frontier.md)
 
-* [Taking Time (and Space) Seriously: How Scholars Falsely Infer Policy Diffusion from Model Misspecification](https://doi.org/10.1111/psj.12374). *Policy Studies Journal* (with Cody Drolc).  2021.  
+* [Taking Time (and Space) Seriously: How Scholars Falsely Infer Policy Diffusion from Model Misspecification](https://doi.org/10.1111/psj.12374). *Policy Studies Journal* (with Cody Drolc and Christopher Gandrud).  2021.  
   [[Details]](../_publications/taking.md)
 
 * [Should We Talk about the Weather? How Party Competition and Coalition Participation Influence Politics](https://doi.org/10.1177/1354068818806545). *Party Politics* (with Edward Goldring and Brandon Beomseob Park).  2020.  
