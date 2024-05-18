@@ -40,8 +40,8 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
 * [Guns Yield Butter? Exploring the Individual-Level Variation in Defense Spending Attitudes](https://doi.org/10.1177/0022002718785969). *The Journal of Conflict Resolution*.  2019.    
   [[Details]](../_publications/gvb.md)
 
-* [Temporal Dependence and the Sensitivity of Quantities of Interest: A Solution for a Common Problem](https://doi.org/10.1093/isq/sqy036). *International Studies Quarterly*.  2018.    
-  [[Details]](../_publications/td.md)
+* [Temporal Dependence and the Sensitivity of Quantities of Interest: A Solution for a Common Problem](https://doi.org/10.1093/poq/nfx034). *International Studies Quarterly*.  2018.    
+  [[Details]](../_publications/tdw.md)
 
 * [North American Public Opinion on Health and Smoking](https://doi.org/10.1093/isq/sqy036). *Public Opinion Quarterly* (with Raymond M. Duch and Kent L. Tedin).  2018.    
   [[Details]](../_publications/smoking.md)
