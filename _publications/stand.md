@@ -13,4 +13,4 @@ author_profile: true
 
 > In this article, we bring together elements from the literatures on economic voting and spatial voting to gain theoretical leverage on the combined role of clarity of responsibility, party policy positions, and economic performance in elections. Building on evidence of voter knowledge, we develop a theory of spatial contagion effects to explain how factors drawn from both of these literatures combine to shape changes in support for political parties. We test this theory with a spatial autoregressive model of party competition in 23 nations from 1951 to 2005. As expected, we find evidence of strong spatial contagion effects in elections with low clarity of responsibility.
 
-[[Article]](https://doi.org/10.1111/ajps.12124) [[Reproduction]](stand-Replication.zip) [[Supporting Information]](..//files/stand-SI.pdf)
+[[Article]](https://doi.org/10.1111/ajps.12124) [[Reproduction]](https://doi.org/10.7910/DVN/24914) [[Supporting Information]](..//files/stand-SI.pdf)
