@@ -5,7 +5,7 @@ permalink: /publications/gvb
 author_profile: true
 ---
 
-#Guns Yield Butter? An Exploration of Defense Spending Preferences# 
+## Guns Yield Butter? An Exploration of Defense Spending Preferences
 
 **The Journal of Conflict Resolution**, 2021
 
