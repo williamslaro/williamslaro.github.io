@@ -55,7 +55,7 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
 * [Making and Breaking Party Leaders: An Informational Theory of Temporary and Lasting Impacts of Prime Minister Debates in Spain](https://doi.org/10.1111/ssqu.12446). *Social Science Quarterly* (with Inaki Sagarzazu).  2017.    
   [[Details]](../_publications/leaders.md)
 
-* [Relaxing the Constant Economic Vote Restriction: Economic Evaluations and Party Support in Germany](https://doi.org/10.1177/1354068815593458). *Pary Politics* (with Mary Stegmaier and Marc Debus).  2017.    
+* [Relaxing the Constant Economic Vote Restriction: Economic Evaluations and Party Support in Germany](https://doi.org/10.1177/1354068815593458). *Party Politics* (with Mary Stegmaier and Marc Debus).  2017.    
   [[Details]](../_publications/cev.md)
 
 * [Opposition Parties and the Timing of Successful No-Confidence Motions](https://doi.org/10.1017/psrm.2015.12). *Political Science Research and Methods*.  2016.    
