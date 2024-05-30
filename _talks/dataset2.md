@@ -10,22 +10,18 @@ location: "Issue Salience in America"
 
 The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' responses to the 'Most Important Problem' question using survey data from 1939-2020. Responses are partitioned into quasi-responses which are then coded into the MIPD coding scheme. We also collect a variety of demographic (i.e., age, gender, income, class, etc), political variables (i.e., partisan identification, ideology, vote intention), evaluations (i.e., presidential approval and economic evaluations), and ownership perceptions (i.e., best party at handling issues), which can be used in exploratory or inferential analyses. 
 
-Relative importance of foreign policy and the economy for Americans, 1939-2015
-![Partisanship](../images/mip2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+What is the Most Important Problem for Americans?
+![Partisanship](../files/fig_mipd.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-## Data Access
+## Aggregate Data
+1. **Explore Issue Salience:** visualize the importance of issue categories (economy, foreign policy, politics, etc) and explore the ebbs and flows of issue salience in America from 1939-2020. [Explore](https://williamslaro.shinyapps.io/explore/)
+
+3. **Explore Issue Salience across Groups:** how do the characteristics of respondents shape the importance of various issues? Do Republicans care more about different issues than Democrats? Men and women? Poor and rich? How does geographical region affect which issues are considered "most important"? [Explore across Groups](https://williamslaro.shinyapps.io/explore_sub/)
+
+4. **Download:** download the aggregate datasets containing the percentages of MIP responses across subgroups of Americans (including partisan identification, gender, income quartiles, and geographic regions) in a variety of temporal domains (survey, annual, quarterly, or monthly). [Download](https://williamslaro.shinyapps.io/mipd/)
+
+## Individual Data
 Individual data is available through the [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159) and aggregate measures of issue salience are available in the links below.
-
-## Datasets (will be released soon!)
-1. **MIPD Individual Dataset:** dataset containing the individual-level responses to the MIP question, as well as demographics, economic evaluations, presidential approval, and competency questions. [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159)
-
-2. **MIPD Aggregate Datasets:** aggregate datasets containing the percentages of MIP responses in each category of the [MIPD](../files/codes.xlsx) and Comparative Agendas Project coding schemes. Available temporal dimensions include survey, monthly, quarterly, and annual.
-
-3. **MIPD Aggregate Subgroup Datasets:** aggregate datasets containing the percentages of MIP responses across subgroups of Americans (including partisan identification, gender, income quartiles, and geographic regions).  
-
-## Supporting Materials (will be released soon!)
-* **MIPD Individual Codebook:** Codebook containing variable definitions, question wordings, coding schemes and descriptive statistics for the individual-level dataset.
-* **MIPD Aggregate Codebook:** Codebook containing variable definitions, question wordings, coding schemes and descriptive statistics for the aggregate and subgroup datasets.
 
 ## Citations
 If you use the dataset, please cite the following two companion articles and the dataset:
