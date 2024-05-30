@@ -8,10 +8,11 @@ date: 2024-01-01
 location: "Issue Salience in America"
 ---
 
-The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' responses to the 'Most Important Problem' question using survey data from 1939-2020. Responses are partitioned into quasi-responses which are then coded into the MIPD coding scheme. We also collect a variety of demographic (i.e., age, gender, income, class, etc), political variables (i.e., partisan identification, ideology, vote intention), evaluations (i.e., presidential approval and economic evaluations), and ownership perceptions (i.e., best party at handling issues), which can be used in exploratory or inferential analyses. 
-
 **What is the Most Important Problem for Americans?**
 ![Partisanship](../files/fig_mipd.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+# Overview
+The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' responses to the 'Most Important Problem' question using survey data from 1939-2020. Responses are partitioned into quasi-responses which are then coded into the MIPD coding scheme. We also collect a variety of demographic (i.e., age, gender, income, class, etc), political variables (i.e., partisan identification, ideology, vote intention), evaluations (i.e., presidential approval and economic evaluations), and ownership perceptions (i.e., best party at handling issues), which can be used in exploratory or inferential analyses. 
 
 ## Aggregate Data
 1. **Explore Issue Salience:** visualize the importance of issue categories (economy, foreign policy, politics, etc) and explore the ebbs and flows of issue salience in America from 1939-2020. [Link](https://williamslaro.shinyapps.io/explore/)
