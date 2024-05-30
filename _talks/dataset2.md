@@ -21,7 +21,7 @@ The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' r
 4. **Download:** download the aggregate datasets containing the percentages of MIP responses across subgroups of Americans (including partisan identification, gender, income quartiles, and geographic regions) in a variety of temporal domains (survey, annual, quarterly, or monthly). [Link](https://williamslaro.shinyapps.io/mipd/)
 
 ## Individual Data
-Individual data is available through the [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159) and aggregate measures of issue salience are available in the links below.
+Individual data is available through the [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159).
 
 ## Citations
 If you use the dataset, please cite the following two companion articles and the dataset:
