@@ -20,4 +20,4 @@ indirect effects of covariates when the true data-generating process reflects ot
 to find phantom higher-order effects that are not present in the data. We further demonstrate how SLX models reveal
 heterogeneity in patterns of spatial dependence in countries’ defense burdens that SAR models cannot discover.
 
-[[Article]](https://doi.org/10.1086/710089) [[Reproduction]](https://doi.org/10.7910/DVN/RFYOH6) [[Supplemental Materials]](..//files/WWW-SM.pdf)
+[[Article]](https://doi.org/10.1086/710089){:target="_blank"} [[Reproduction]](https://doi.org/10.7910/DVN/RFYOH6){:target="_blank"} [[Supplemental Materials]](..//files/WWW-SM.pdf)
