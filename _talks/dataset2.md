@@ -14,7 +14,7 @@ The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' r
 ![Partisanship](../files/fig_mipd.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Aggregate Data
-1. **Explore Issue Salience:** visualize the importance of issue categories (economy, foreign policy, politics, etc) and explore the ebbs and flows of issue salience in America from 1939-2020. <a href = "https://williamslaro.shinyapps.io/explore/" >target = "_blank"> Link</a>
+1. **Explore Issue Salience:** visualize the importance of issue categories (economy, foreign policy, politics, etc) and explore the ebbs and flows of issue salience in America from 1939-2020. <a href = "https://williamslaro.shinyapps.io/explore/" Link</a>
 
 3. **Explore Issue Salience across Groups:** how do the characteristics of respondents shape the importance of various issues? Do Republicans care more about different issues than Democrats? Men and women? Poor and rich? How does geographical region affect which issues are considered "most important"? [Link](https://williamslaro.shinyapps.io/explore_sub/)
 
