@@ -23,4 +23,4 @@ We find inconsistent evidence of polarization for some issue areas but not other
 #### Conclusion
 The U.S. public is remarkably consistent in terms of its assessments of the most important problem and in how subgroups shift their perceptions of issue importance in reaction to changing circumstances.
 
-[[Article]](https://doi.org/10.1111/ssqu.13360) [[Reproduction]](..//files/JLPWW-replication.zip)
+[[Article]](https://doi.org/10.1111/ssqu.13360){:target="_blank"} [[Reproduction]](..//files/JLPWW-replication.zip)
