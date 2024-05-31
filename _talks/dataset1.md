@@ -8,6 +8,16 @@ date: 2014-01-01
 location: "Government Composition and Partisanship"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEWGZLYJNT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QEWGZLYJNT');
+</script>
+
 The Seki-Williams dataset updates Woldendorp, Keman and Budge's (2000) Party Government dataset through 2014. This includes government composition, government type, partisanship, and minister information for 37 democracies in the post-WWII era through 2014. 
 
 **Annual government partisanship (based on MARPOR data) for four European democracies**
