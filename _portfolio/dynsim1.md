@@ -4,6 +4,16 @@ excerpt: "Dynamic simulations of autoregressive relationships in Stata<br/><img 
 collection: portfolio
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEWGZLYJNT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QEWGZLYJNT');
+</script>
+
 [Guy D. Whitten](https://bush.tamu.edu/faculty/gwhitten/){:target="_blank"} and I develop a Stata package called *dynsim* that use the [Clarify](https://gking.harvard.edu/clarify){:target="_blank"} program to generate dynamic simulations of autoregressive relationships in Stata.
 
 ## Download Instructions
