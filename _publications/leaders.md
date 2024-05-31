@@ -23,4 +23,4 @@ Debates following the installation of new party leaders often produce sizable im
 ### Conclusion
 Parliamentary debates are valuable opportunities for party leaders to shift public opinion in their favor, a fact that is not lost to them considering the time and energy devoted to crafting strategies, and the media's fascination with providing extensive coverage of the debates. This study has important implications for the study of dynamic processes (such as vote intention), and the link between parties' strategic communications and voting behavior.
 
-[[Article]](https://doi.org/10.1111/ssqu.12446) [[Reproduction]](..//files/SW-Replication.zip)
+[[Article]](https://doi.org/10.1111/ssqu.12446){:target="_blank"} [[Reproduction]](..//files/SW-Replication.zip)
