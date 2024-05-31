@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEWGZLYJNT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QEWGZLYJNT');
+</script>
+
 Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=mf4yXbAAAAAJ&hl=en){:target="_blank"}.
 
 ## Journal Articles (Peer-Reviewed)
