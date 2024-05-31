@@ -11,4 +11,4 @@ author_profile: true
 
 **The Political Methodologist**, 2016
 
-[[Article]](https://thepoliticalmethodologist.wordpress.com/wp-content/uploads/2016/08/tpm_v23_n2.pdf) [[Website]](https://williamslaro.github.io/portfolio/dynsim2) 
+[[Article]](https://thepoliticalmethodologist.wordpress.com/wp-content/uploads/2016/08/tpm_v23_n2.pdf){:target="_blank"} [[Website]](https://williamslaro.github.io/portfolio/dynsim2){:target="_blank"} 
