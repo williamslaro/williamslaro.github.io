@@ -14,7 +14,7 @@ The Seki-Williams dataset updates Woldendorp, Keman and Budge's (2000) Party Gov
 ![Partisanship](../images/part.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Data Access
-All files are available through [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
+All files are available through [Dataverse](https://doi.org/10.7910/DVN/0UNUAM){:target="_blank"}.
 
 ## Datasets
 1. **Seki-Williams Governments Dataset (Version 2.0):** contains data on all government parties, government type, seat shares, and other information for all governments in advanced democracies through 2014.
@@ -23,13 +23,13 @@ All files are available through [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
 4. **WKB Ministers Data:** Stata version of the original Woldendorp, Keman and Budge data.
 
 ## Generation Files
-* To generate datasets based on different units of analysis (such as government-party), or temporal dimensions (such as quarterly or monthly), or to create different government partisanship variables, follow the directions in the Seki-Williams Government Partisanship.do (Stata do file) located on [Dataverse](https://doi.org/10.7910/DVN/0UNUAM).
+* To generate datasets based on different units of analysis (such as government-party), or temporal dimensions (such as quarterly or monthly), or to create different government partisanship variables, follow the directions in the Seki-Williams Government Partisanship.do (Stata do file) located on [Dataverse](https://doi.org/10.7910/DVN/0UNUAM){:target="_blank"}.
 
 ## Supporting Materials
 * Codebooks for the Governments, Ministers, and Government Partisanship datasets
 
 ## Citation 
-* Seki, Katsunori and Laron K. Williams. 2014. "Updating the Party Government Dataset." *Electoral Studies* [Link](https://doi.org/10.1016/j.electstud.2013.10.001)
+* Seki, Katsunori and Laron K. Williams. 2014. "Updating the Party Government Dataset." *Electoral Studies* [Link](https://doi.org/10.1016/j.electstud.2013.10.001){:target="_blank"}
 
 
 
