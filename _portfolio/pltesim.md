@@ -4,6 +4,16 @@ excerpt: "Probabilistic Long-Term Effects in R<br/><img src='/images/pltesim.jpe
 collection: portfolio
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEWGZLYJNT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QEWGZLYJNT');
+</script>
+
 [Christopher Gandrud](https://christophergandrud.blogspot.com/p/biocontact.html){:target="_blank"} and I develop an R package called *pltesim* to generate probabilistic long-term effects for models of binary outcomes with temporal dependence controls (such as cubic splines or polynomials).
 
 ## Download Instructions
