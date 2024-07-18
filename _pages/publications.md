@@ -23,6 +23,9 @@ Here is my [CV](/files/CV.pdf) and [Google Scholar](https://scholar.google.com/c
 * The Economic Roots of Cross-National Similarity in Voter Preferences. *American Journal of Political Science* (with David Fortunato and Sebastian Juhl).  Forthcoming.  
   [[Details]](../_publications/similarity.md)
 
+* The Space Between: How Ideological Similarity Limits the Effectiveness of Ambiguity. *Journal of Elections, Public Opinion and Parties* (with Victor Shin).  Forthcoming.  
+  [[Details]](../_publications/spacebetween.md)
+
 * [Problem Importance across Time and Space: Updating the 'Most Important Problem Dataset'](https://doi.org/10.1080/17457289.2024.2337424){:target="_blank"}. *Journal of Elections, Public Opinion and Parties* (with T. Murat Yildirim). Forthcoming.  
   [[Details]](../_publications/mipd2.md)
 
