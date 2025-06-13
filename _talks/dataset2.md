@@ -33,7 +33,7 @@ The Most Important Problem Dataset (MIPD) aggregates over 1 million Americans' r
 [Link](https://williamslaro.shinyapps.io/mipd/){:target="_blank"}
 
 ## Individual Data
-Individual data is available through the [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31094159){:target="_blank"}.
+Individual data is available through the [Roper Center for Public Opinion Research](https://doi.org/10.25940/ROPER-31122110){:target="_blank"}.
 
 ## Citations
 If you use the dataset, please cite the following two companion articles and the dataset:
